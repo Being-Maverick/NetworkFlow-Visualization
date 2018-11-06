@@ -1,6 +1,6 @@
 # NetworkFlow-Visualization
 This repository contains a mini project visualizing the Push-Relabel algorithm and Ford-Fulkerson  algorithm for network flow.
-There are 7 text files and 2 zip files.
+There are 7 .java files and 2 zip files.
 The two zip files graph1 and graph2 contains images for visualizing Ford-Fulkerson and Push-Relabel algorithm respectively.
 The text files algo and algo2 are used for visualizing the algorithm, using a user level thread.
 FF and PR files handles the frames of the algorithms.
